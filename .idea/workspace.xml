@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983fb36f-4a50-4217-92ac-64ca79b563e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork_Strings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="983fb36f-4a50-4217-92ac-64ca79b563e1" name="Changes" comment="First commit of Home Work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,8 +51,23 @@
       <workItem from="1651898800987" duration="494000" />
       <workItem from="1651909645538" duration="994000" />
       <workItem from="1651994191328" duration="31000" />
-      <workItem from="1652020439503" duration="1945000" />
+      <workItem from="1652020439503" duration="2246000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit of Home Work">
+      <created>1652022520672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652022520672</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit of Home Work">
+      <created>1652022675533</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652022675533</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit of Home Work" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit of Home Work" />
   </component>
 </project>
