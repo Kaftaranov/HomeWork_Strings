@@ -18,7 +18,5 @@ public class Main {
         fullName = surname + " " + name + " " + middleName;
         for (int i = 0; i < fullName.length(); i++) {fullName = fullName.replace("yo","e");}
         System.out.println("Full name of employee is " + fullName);
-//Задача №4
-
     }
 }
